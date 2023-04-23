@@ -1,6 +1,7 @@
 # Catficate
 
 ![catficate-image](images/catficate.png)
+
 Catficate is a blockchain-based platform that allows for the creation, storage, and authentication of digital certificates. Utilizing secure enclaves (SGX) and trusted platform modules (TPM), Catficate provides a highly secure and reliable solution for certificate management.
 
 ## Features
