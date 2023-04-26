@@ -1,4 +1,5 @@
 mod certificate;
+mod storage;
 
 use axum::{routing::{post, get}, Json, Router, http::StatusCode, response::IntoResponse,};
 use axum::extract::Path;
